@@ -1,0 +1,2 @@
+
+python erythrocyte_counter.py C:\AN\Screenshot_2.png  --optimize --visualize
